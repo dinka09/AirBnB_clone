@@ -5,6 +5,9 @@ is a complete web application, integrating database storage, a back-end API, and
 * Create your data model
 * Manage (create, update, destroy, etc) objects via a console / command interpreter
 * Store and persist objects to a file (JSON file)
+   To Operate:
+   
+    ./console.py
 
 # Files and Directories
 ## models directory:
