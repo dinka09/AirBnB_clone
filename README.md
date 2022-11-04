@@ -6,8 +6,7 @@ is a complete web application, integrating database storage, a back-end API, and
 * Manage (create, update, destroy, etc) objects via a console / command interpreter
 * Store and persist objects to a file (JSON file)
    * To Operate:
-
-    ./console.py
+             ./console.py
 
 # Files and Directories
 ## models directory:
