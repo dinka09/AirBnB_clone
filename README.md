@@ -7,7 +7,7 @@ is a complete web application, integrating database storage, a back-end API, and
 * Store and persist objects to a file (JSON file)
    * To Operate:
 
-    -./console.py
+    ./console.py
 
 # Files and Directories
 ## models directory:
